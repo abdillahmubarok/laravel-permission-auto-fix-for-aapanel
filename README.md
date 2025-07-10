@@ -1,0 +1,1 @@
+# laravel-permission-auto-fix-for-aapanel
